@@ -1,4 +1,4 @@
-# YouTube-Data-Harvesting-and-Warehousing
+# Guvi-Capstone-Project-YouTube-Data-Harvesting-and-Warehousing
 Youtube-data-harvesting-and- Warehousing is a project that allows users to analyse data from numerous YouTube channels easily. SQL, MongoDB, and Streamlit are used to develop a user-friendly application that allows users to query and retrieve Youtube channel data in this project.
 
 Tools Used:
